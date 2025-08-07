@@ -12,4 +12,4 @@
 > The third time, you refactor."  
 > — Kent Beck
 
-We're don't get it perfect on the first try. We're here to get it better every time.
+We don't get it perfect on the first try. We're here to get it better every time.
